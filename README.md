@@ -25,6 +25,6 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MATEUSREIS25&repo=MATEUSREIS25&theme=react)](https://github.com/MATEUSREIS25/MATEUSREIS25)
+
 
 
