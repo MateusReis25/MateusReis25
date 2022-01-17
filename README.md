@@ -16,7 +16,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-  <br>
+  <br><br>
   
   <div align="center"> 
    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
