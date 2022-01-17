@@ -3,9 +3,10 @@
 <div align="inline" >
   <a href="https://github.com/MateusReis25">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MateusReis25&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
-
 </div>
+  <div> 
+   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
+  </div>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
