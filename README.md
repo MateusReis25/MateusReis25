@@ -1,6 +1,6 @@
 <h1> Hi! My name is Mateus. </h1>
 
-<div align="inline" >
+<div align="center" >
   <a href="https://github.com/MateusReis25">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MateusReis25&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
 </div>
@@ -15,10 +15,10 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
 </div>
+  <br>
   
-  <div> 
+  <div align="center"> 
    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
   </div>
  
