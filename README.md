@@ -4,9 +4,7 @@
   <a href="https://github.com/MateusReis25">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MateusReis25&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
 </div>
-  <div> 
-   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
-  </div>
+ 
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -18,8 +16,11 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-    
 </div>
+  
+  <div> 
+   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEUSREIS25&layout=compact&langs_count=7&theme=react" />
+  </div>
  
  
   ![Snake animation](https://github.com/MateusReis25/MateusReis25/blob/output/github-contribution-grid-snake.svg)
