@@ -2,7 +2,7 @@
  <h1 align="center"> Hi, I'm Mateus Reis!</h1>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-m-reis/) 
 
 # 💻 Tech Stack:
@@ -15,5 +15,5 @@
 
 # ![Snake animation](https://github.com/MateusReis25/MateusReis25/blob/output/github-contribution-grid-snake.svg)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=MateusReis25&icon=2&color=12)](https://visitcount.itsvg.in)
